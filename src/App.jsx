@@ -68,7 +68,7 @@ function Formulario() {
         >
           {/* Campo para el nombre */}
           <div>
-            <label className="block text-lg font-semibold text-gray-900 dark:text-gray-100">Nombre:</label>
+            <label className="bloc text-lg font-semibold text-gray-900 dark:text-gray-100">Nombre: </label>
             <input
               type="text"
               name="nombre"
